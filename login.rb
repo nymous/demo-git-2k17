@@ -1,1 +1,4 @@
-# Ici on écrira le code pour se connecter au site
+def login
+    puts "Logging in..."
+end
+
